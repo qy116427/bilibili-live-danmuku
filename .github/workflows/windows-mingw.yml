@@ -1,4 +1,4 @@
-name: Windows MinGW
+name: Windows MinG
 on: 
   push:
     paths:
